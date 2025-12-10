@@ -1,0 +1,332 @@
+{
+  "seller": [
+    {
+      "name": "sujay",
+      "email": "sujay@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "priti",
+      "email": "priti@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "sujit",
+      "email": "sujit@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "shivansh",
+      "email": "shivansh@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "name": "Binay Shaw",
+      "email": "binay@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "name": "pihu",
+      "email": "pihu@gmail.com",
+      "password": "12345",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "name": "realme P3 Lite 5G Charger in the Box (128 GB)",
+      "price": "12749",
+      "color": "#b2b6ba",
+      "category": "Mobile",
+      "description": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB\n16.94 cm (6.67 inch) Display\n32MP Rear Camera | 8MP Front Camera\n6000 mAh Battery",
+      "image": "assets/images/real-me.webp",
+      "id": 1
+    },
+    {
+      "name": "OPPO K13x 5G 6000mAh and 45W SUPERVOOC Charger & AI (128 GB)  (4 GB RAM)",
+      "price": "19999",
+      "color": "#9ac3c3",
+      "category": "Mobile",
+      "description": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB\n16.94 cm (6.67 inch) HD+ Display\n50MP + 2MP | 8MP Front Camera\n6000 mAh Battery",
+      "image": "assets/images/i-phone.webp",
+      "id": 2
+    },
+    {
+      "name": "canon Camera",
+      "price": "3000",
+      "color": "#2e2e30",
+      "category": "Camera",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "image": "assets/images/camera-1.webp",
+      "id": 3
+    },
+    {
+      "name": "Panasonic Camera",
+      "price": "3500",
+      "color": "#2e2e30",
+      "category": "Camera",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "image": "assets/images/camera-2.webp",
+      "id": 4
+    },
+    {
+      "name": "Ear Bird",
+      "price": "5000",
+      "color": "#f4e3cd",
+      "category": "Earphone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/ear-bird-1.webp",
+      "id": 5
+    },
+    {
+      "name": "white Ear Bird",
+      "price": "5500",
+      "color": "#d6c8b8",
+      "category": "Earphone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/ear-bird-2.webp",
+      "id": 6
+    },
+    {
+      "name": "Ear Bird Black",
+      "price": "5100",
+      "color": "#5e697a",
+      "category": "Earphone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/earbird-black-1.webp",
+      "id": 7
+    },
+    {
+      "name": "Ear Bird Black",
+      "price": "4100",
+      "color": "#5e697a",
+      "category": "Earphone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/earbird-black-2.webp",
+      "id": 8
+    },
+    {
+      "name": "white Game player",
+      "price": "3100",
+      "color": "#f1f2f6",
+      "category": "Game",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/game-1.webp",
+      "id": 9
+    },
+    {
+      "name": "white Game player",
+      "price": "3500",
+      "color": "#f1f2f6",
+      "category": "Game",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/game-2.webp",
+      "id": 10
+    },
+    {
+      "name": "Grinder Crompton",
+      "price": "3500",
+      "color": "Silver Black",
+      "category": "Grinder",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/grinder-1.webp",
+      "id": 11
+    },
+    {
+      "name": "Grinder & Juicer Crompton",
+      "price": "4500",
+      "color": "Silver Black",
+      "category": "Grinder",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/grinder-2.webp",
+      "id": 12
+    },
+    {
+      "name": "Asus Laptop",
+      "price": "45000",
+      "color": "Silver",
+      "category": "Laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/laptop-1.webp",
+      "id": 13
+    },
+    {
+      "name": "Sony Bluethooth Speaker",
+      "price": "5000",
+      "color": "Black",
+      "category": "Speaker",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/speaker-1.webp",
+      "id": 14
+    },
+    {
+      "name": "Sony Bluethooth Speaker",
+      "price": "5000",
+      "color": "Black",
+      "category": "Speaker",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/speaker-2.webp",
+      "id": 15
+    },
+    {
+      "name": "SSD Gigabyte",
+      "price": "5000",
+      "color": "Black",
+      "category": "Harddisk",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/ssd-front.webp",
+      "id": 16
+    },
+    {
+      "name": "Panasonic Trimmer",
+      "price": "5000",
+      "color": "Black",
+      "category": "Trimmer",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/trimmer2.webp",
+      "id": 17
+    },
+    {
+      "name": "Smart Watch",
+      "price": "5000",
+      "color": "Black",
+      "category": "Watch",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/watch2.webp",
+      "id": 18
+    }
+  ],
+  "users": [
+    {
+      "name": "User1",
+      "email": "user1@gmail.com",
+      "password": "user01",
+      "id": 1
+    },
+    {
+      "name": "User2",
+      "email": "user2@gmail.com",
+      "password": "user02",
+      "id": 2
+    },
+    {
+      "name": "User3",
+      "email": "user3@gmail.com",
+      "password": "user03",
+      "id": 3
+    },
+    {
+      "name": "user4",
+      "email": "user4@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "user5",
+      "email": "user5@gmail.com",
+      "password": "user05",
+      "id": 5
+    },
+    {
+      "name": "Binay",
+      "email": "binay@gmail.com",
+      "password": "12306",
+      "id": 6
+    },
+    {
+      "name": "test",
+      "email": "testuser@mail.com",
+      "password": "testuser",
+      "id": 7
+    },
+    {
+      "name": "Anup",
+      "email": "anup@koley.com",
+      "password": "anup@123",
+      "id": 8
+    }
+  ],
+  "cart": [
+    {
+      "name": "realme P3 Lite 5G Charger in the Box (128 GB)",
+      "price": "12749",
+      "color": "#b2b6ba",
+      "category": "Mobile",
+      "description": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB\n16.94 cm (6.67 inch) Display\n32MP Rear Camera | 8MP Front Camera\n6000 mAh Battery",
+      "image": "assets/images/real-me.webp",
+      "quentity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 1
+    },
+    {
+      "name": "OPPO K13x 5G 6000mAh and 45W SUPERVOOC Charger & AI (128 GB)  (4 GB RAM)",
+      "price": "19999",
+      "color": "#9ac3c3",
+      "category": "Mobile",
+      "description": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB\n16.94 cm (6.67 inch) HD+ Display\n50MP + 2MP | 8MP Front Camera\n6000 mAh Battery",
+      "image": "assets/images/i-phone.webp",
+      "quentity": 1,
+      "userId": 1,
+      "productId": 2,
+      "id": 2
+    },
+    {
+      "name": "Ear Bird Black",
+      "price": "5100",
+      "color": "#5e697a",
+      "category": "Earphone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/images/earbird-black-1.webp",
+      "quentity": 1,
+      "productId": 7,
+      "userId": 1,
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "name": "Binay",
+      "email": "binay@gmail.com",
+      "contact": "12345678",
+      "address": "haripal",
+      "city": "haripal",
+      "zip": "7012405",
+      "state": "west bengal",
+      "cartSummary": {
+        "price": 9200,
+        "discount": 460,
+        "tax": 920,
+        "shipping": 100,
+        "total": 9760
+      },
+      "totalPrice": 9760,
+      "userId": 6,
+      "id": 1
+    },
+    {
+      "name": "User1",
+      "email": "user1@gmail.com",
+      "contact": "12345678",
+      "address": "haripal",
+      "city": "haripal",
+      "zip": "7012405",
+      "state": "west bengal",
+      "cartSummary": {
+        "price": 12400,
+        "discount": 620,
+        "tax": 1240,
+        "shipping": 100,
+        "total": 13120
+      },
+      "totalPrice": 13120,
+      "userId": 1,
+      "id": 2
+    }
+  ]
+}
